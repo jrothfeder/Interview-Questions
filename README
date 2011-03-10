@@ -1,1 +1,5 @@
 This project contains materials for paired programming exercises that I use during interviews.
+
+Anagrams: 
+"Given a list of strings, determine and return a list of all of the anagrams
+in the list."
